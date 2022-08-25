@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @corinnekost
 - 👀 I’m interested in RHEL, Linux, and Epic Systems ODBA workflows
-- 🌱 I’m currently learning Python, bash scripting, and PowerShell
+- 🌱 I’m currently learning bash scripting, Python, and PowerShell
 - 💞️ I’m looking to collaborate on any bash scripting for practice/exposure
