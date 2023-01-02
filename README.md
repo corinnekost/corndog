@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @corinnekost
 - 👀 I’m interested in RHEL, Linux, and Epic Systems ODBA workflows
 - 🌱 I’m currently learning Rust and compiling a Linux kernel from scratch
-- 💞️ I’m looking to expose myself to Rust and beging developing small scripts
+- 💞️ I’m looking to expose myself to Rust and begin developing small scripts
