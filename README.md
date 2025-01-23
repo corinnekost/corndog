@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @corndog
-- 👀 I’m interested in RHEL, DevOps, and Epic Systems ODBA workflows
-- 🌱 I’m currently in school for a B.A. in CyberSecurity, with hopes to transition from Database Administration into DevOps
-- 💞️ I’m looking to harness the Linux skillset and programming skills to be successful in DevOps
